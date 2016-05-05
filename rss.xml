@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mangala Samaraweera]]></title>
+        <description><![CDATA[Mangala Samaraweera]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 08:53:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It has been an honour and a privilege to welcome Sweden’s Foreign Minister, the Hon. Margot Wallström, to Sri Lanka this morning. This visit follows-on from the meeting we had in Geneva just over a year ago and President Sirisena and Prime Minister Wickresinghe’s meetings with Prime Minister Stefan Lofven at the Boao Forum and World Economic Forum respectively.</p>]]></description>
+            <link>undefinedit-has-been-an-honour-and-a-privilege-to-welcome-swedens-fo/index.html</link>
+            <guid isPermaLink="false">35abeb8e-3d7f-41de-ba73-332cb04c02ca</guid>
+            <pubDate>Thu, 05 May 2016 08:52:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
